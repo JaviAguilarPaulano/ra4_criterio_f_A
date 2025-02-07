@@ -24,6 +24,8 @@ bin/
 
 ### VS Code ###
 .vscode/
+*.jpg
+manuales/
 
 ### Mac OS ###
 .DS_Store
